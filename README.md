@@ -54,3 +54,22 @@ but they are not passed to offspring conceived via sexual reproduction.
 
 [SOMATIC AND GERMLINE MUTATIONS](https://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/118575917/42686_85.jpg)
 
+
+
+Missense mutation: This type of mutation is a change in one DNA base pair that results in the substitution of one amino acid for another in the protein made by a gene.
+
+Nonsense mutation: A nonsense mutation is also a change in one DNA base pair. Instead of substituting one amino acid for another, however, the altered DNA sequence prematurely signals the cell to stop building a protein. This type of mutation results in a shortened protein that may function improperly or not at all.
+
+Silent mutation: Some mutations that change DNA bases do not have any effect on the sequence of amino acids in the protein. These mutations are called silent mutations and they do not affect the structure or function of the protein because there is no effect on the amino acid sequence.
+
+Inserion: An insertion changes the number of DNA bases in a gene by adding a piece of DNA.
+
+Deletion: A deletion removes a piece of DNA
+
+Duplication: A duplication consists of a piece of DNA that is abnormally copied one or more times. This type of mutation may alter the function of the resulting protein.
+
+Frameshift mutation: This type of mutation occurs when the addition or loss of DNA bases changes a gene’s reading frame. A reading frame consists of groups of 3 bases that each code for one amino acid. A frameshift mutation shifts the grouping of these bases and changes the code for amino acids. The resulting protein is usually nonfunctional. Insertions, deletions, and duplications can all be frameshift mutations.
+
+Repeat expansion: Nucleotide repeats are short DNA sequences that are repeated a number of times in a row. For example, a trinucleotide repeat is made up of 3-base- pair sequences, and a tetranucleotide repeat is made up of 4-base-pair sequences. A repeat expansion is a mutation that increases the number of times that the short DNA sequence is repeated. This type of mutation can cause the resulting protein to function.
+
+[MUTATIONS AND THEIR IMPACTS](https://www.nature.com/scitable/topicpage/genetic-mutation-441/)
